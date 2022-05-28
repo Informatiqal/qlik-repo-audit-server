@@ -1,0 +1,4 @@
+servers:
+  - host: localhost
+    name: local
+    certificates: C:\path\to\certificates

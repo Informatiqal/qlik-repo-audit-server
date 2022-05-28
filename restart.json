@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "src"
+  ],
+  "exec": "ts-node-dev --inspect=0.0.0.0:9222 -r tsconfig-paths/register src/index",
+  "ext": "ts",
+  "events": {
+    "start": "cls && printf \"\\e[3J\""
+  }
+}
