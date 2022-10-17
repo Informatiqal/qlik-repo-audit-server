@@ -34,7 +34,7 @@
         "@types/express": "4.17.14",
         "@types/express-list-endpoints": "6.0.0",
         "@types/js-yaml": "4.0.5",
-        "@types/node": "16.11.64",
+        "@types/node": "16.11.66",
         "nodemon": "2.0.20",
         "prettier": "2.7.1",
         "rimraf": "3.0.2",
