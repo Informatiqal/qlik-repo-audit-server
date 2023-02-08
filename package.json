@@ -36,7 +36,7 @@
         "@types/js-yaml": "4.0.5",
         "@types/node": "18.13.0",
         "nodemon": "2.0.20",
-        "prettier": "2.8.3",
+        "prettier": "2.8.4",
         "rimraf": "4.1.2",
         "ts-node": "10.9.1",
         "ts-node-dev": "2.0.0",
