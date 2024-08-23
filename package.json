@@ -26,7 +26,7 @@
         "qlik-repo-api": "^0.7.0",
         "sequelize": "^6.19.0",
         "sequelize-typescript": "^2.1.3",
-        "tslib": "~2.5.0",
+        "tslib": "~2.7.0",
         "winston": "^3.3.3"
     },
     "devDependencies": {
