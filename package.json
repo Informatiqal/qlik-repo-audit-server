@@ -23,7 +23,7 @@
         "express-list-endpoints": "^7.1.0",
         "js-yaml": "^4.1.0",
         "pg": "^8.12.0",
-        "qlik-repo-api": "^0.13.2",
+        "qlik-repo-api": "^0.15.0",
         "sequelize": "^6.37.3",
         "sequelize-typescript": "^2.1.6",
         "tslib": "~2.7.0",
